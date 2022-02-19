@@ -51,7 +51,7 @@
 
 <div align="center">
   
-  **📫 Link to my pond:**<br>
+  **📫 Links to my pond:**<br>
 
   [![Mail Badge](https://img.shields.io/badge/-Mail-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=minutemailer&logoColor=white&link=mailto:hello@elliotthiebaut.com)](mailto:clef.fontaine@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ClémentFontaine/)](https://www.linkedin.com/in/cl%C3%A9ment-f-a6b85083/)
