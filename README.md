@@ -1,12 +1,6 @@
 <h1 align="center">This is the Dataduck ! 🦆</h1>
 <h3 align="center">Explorer and student in Datascience</h3>
 
-<ul align="center">
-    <p>👨‍💻 All of my projects are available at <a href="https://github.com/ElliotThiebaut">https://github.com/ElliotThiebaut</a></p>
-    <p>🤹‍♂️ I love playing with JS to make fun little projects</p>
-</ul>
-
-
 <table align="center">
   <tbody>
     <tr valign="top">
